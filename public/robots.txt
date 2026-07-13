@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coldmail-ai.com/sitemap.xml
